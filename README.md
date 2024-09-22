@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Aditya Mache
 - 👀 I’m interested in Cloud computing.
 - 💬 Ask me about **AWS, Docker, Kubernetes, CI/CD, Python**
-- 🌱 I’m currently learning Infrastructure as a cloud.
-- 💞️ I’m looking to collaborate on DevOps projects.
+- 💞️ I love collaborating on Innovative projects.
 - 📫 How to reach me macheaditya7335@gmail.com
-- 😄 Pronouns: Mr
+- 😄 Work In Process --> DevOps Engineering Skills.
 - ⚡ Fun fact: Cloud does not cause rain.
 
 
