@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rutuja-jagtap-52720b14b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rutuja-jagtap-52720b14b/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rutujaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rutujaj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-mache-322500169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-mache-322500169/" height="30" width="40" /></a>
+
 </p><p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujajagtap7&label=Profile%20views&color=0e75b6&style=flat" alt="rutujajagtap7" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
